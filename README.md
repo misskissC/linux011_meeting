@@ -1,7 +1,7 @@
 # linux011_meeting
 linux011_meeting just only means linux011 learning, reading and annotating.
 
-goddess hopes more knowledgeable guys just like you can meeting linux011 together. are you?
+goddess hopes more knowledgeable guys just like you can meeting linux011 together.
 
 the simple notes extract from here, here you are.
 
