@@ -1,5 +1,5 @@
 # linux011_meeting
-linux011_meeting namely is linux011 learning, namely is linux0.11 reading and annotating.
+linux011_meeting just only means linux011 learning, reading and annotating.
 
 goddess hopes more knowledgeable guys just like you can meeting linux011 together. are you?
 
